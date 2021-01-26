@@ -4,5 +4,5 @@
 
 
 <span>
-  <img src="gopher.png"  width="100"/>
+  <img src="gopher.png"  width="100" align="right"/>
 </span>
